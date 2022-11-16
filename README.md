@@ -4,7 +4,7 @@ Je suis Rachel, j'ai 23 ans. 🙋‍♀️
 
 D'abord diplômée d'un DUT Informatique de l'Université Sorbonne Paris Nord en 2020, j'ai fais une grande pause de deux ans à la suite de quoi j'ai suivis une formation e-learning. J'ai donc suivi le [parcours Developpeur Web d'OpenClassrooms](https://openclassrooms.com/fr/paths/717-developpeur-web) duquel j'ai obtenu le diplôme en Novembre 2022. 📜
 
-Du coup... je suis à la recherche d'un emploi de Développeur Fullstack dans la région Rhône-Alpes (plus précisément vers Grenoble). 😫
+Du coup... je suis à la recherche d'un emploi de Développeur Fullstack Junior dans la région Rhône-Alpes (plus précisément vers Grenoble). 😫
 
 ---
 
