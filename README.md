@@ -1,10 +1,12 @@
 # Hello et bienvenue ! 👋
 
-Je suis Rachel, j'ai 23 ans. 🙋‍♀️
+Je suis Rachel, j'ai 24 ans. 🙋‍♀️
 
 D'abord diplômée d'un DUT Informatique de l'Université Sorbonne Paris Nord en 2020, j'ai fais une grande pause de deux ans à la suite de quoi j'ai suivis une formation e-learning. J'ai donc suivi le [parcours Developpeur Web d'OpenClassrooms](https://openclassrooms.com/fr/paths/717-developpeur-web) duquel j'ai obtenu le diplôme en Novembre 2022. 📜
 
-Du coup... je suis à la recherche d'un emploi de Développeur Fullstack Junior. 😫
+J'ai a la suite de ça réalisé une immersion profesionnelle en tant que Développeur Front-end pour Flashdesign. 🔥
+
+Je suis actuellement en formation e-learning encore chez OpenClassrooms mais cette fois-ci sur le [parcours Développeur d'application - JavaScript React](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react) qui se termine en Mars 2024. 💻
 
 ---
 
@@ -21,10 +23,13 @@ Du coup... je suis à la recherche d'un emploi de Développeur Fullstack Junior.
   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  	
   <br><br>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
    <br><br>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="Sql" src="https://img.shields.io/badge/-SQL-0079d6?style=for-the-badge&logo=mysql&logoColor=white" />
