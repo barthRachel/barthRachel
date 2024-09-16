@@ -1,12 +1,12 @@
 # Hello et bienvenue ! 👋
 
-Je suis Rachel, j'ai 24 ans. 🙋‍♀️
+Je suis Rachel, j'ai 25 ans. 🙋‍♀️
 
 D'abord diplômée d'un DUT Informatique de l'Université Sorbonne Paris Nord en 2020, j'ai fais une grande pause de deux ans à la suite de quoi j'ai suivis une formation e-learning. J'ai donc suivi le [parcours Developpeur Web d'OpenClassrooms](https://openclassrooms.com/fr/paths/717-developpeur-web) duquel j'ai obtenu le diplôme en Novembre 2022. 📜
 
 J'ai a la suite de ça réalisé une immersion profesionnelle en tant que Développeur Front-end pour Flashdesign. 🔥
 
-Je suis actuellement en formation e-learning encore chez OpenClassrooms mais cette fois-ci sur le [parcours Développeur d'application - JavaScript React](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react) qui se termine en Mars 2024. 💻
+Dans la continuité de mon objectif, j'ai suivi le [parcours Développeur d'application - JavaScript React](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react) dont j'ai obtenu le diplôme en Mars 2024. 💻
 
 ---
 
